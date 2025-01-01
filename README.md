@@ -1,5 +1,5 @@
 # Astroggedon
-Astroggedon is a fast-paced spaceship game where players dodge asteroids, collect stars, and aim to survive the ultimate cosmic disaster. Built in two weeks with Java and SimpleGraphicsGFX, this project showcases teamwork, creativity, and technical expertise.
+Astroggedon is a fast-paced spaceship game where players navigate through asteroid fields, collect stars, and aim to survive an impending cosmic armageddon. Developed in just two weeks with Java and SimpleGraphicsGFX, it showcases creativity, technical skill, and seamless teamwork.
 
 ---
 
@@ -31,5 +31,5 @@ Astroggedon offers players an engaging gaming experience that tests reflexes, st
 ---
 
 ## **Contributors**
-- [Sara Gonçalves] - [GitHub](https://github.com/sarafsg)
-- [Jorge Coelho] - [GitHub](https://github.com/JorgeMCoelho)
+- **Sara Gonçalves** - [GitHub](https://github.com/sarafsg)
+- **Jorge Coelho** - [GitHub](https://github.com/JorgeMCoelho)
